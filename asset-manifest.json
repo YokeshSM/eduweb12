@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/eduweb12/static/css/main.0830294a.css",
+    "main.js": "/eduweb12/static/js/main.7294caaf.js",
+    "static/js/453.ed3810f9.chunk.js": "/eduweb12/static/js/453.ed3810f9.chunk.js",
+    "static/media/awrapper.webp": "/eduweb12/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/learn6.jpg": "/eduweb12/static/media/learn6.0e0f6cac3d7ffb4c64ec.jpg",
+    "index.html": "/eduweb12/index.html",
+    "main.0830294a.css.map": "/eduweb12/static/css/main.0830294a.css.map",
+    "main.7294caaf.js.map": "/eduweb12/static/js/main.7294caaf.js.map",
+    "453.ed3810f9.chunk.js.map": "/eduweb12/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0830294a.css",
+    "static/js/main.7294caaf.js"
+  ]
+}
